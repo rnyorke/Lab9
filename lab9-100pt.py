@@ -30,6 +30,8 @@ while(x):
         if travel == "yes":
             print "You need to be admitted!"
             print "-----------------------------------------------------------"
+        else:
+            print "You do not need to be admitted!"
     else:
         print "You do not need to be admitted!"
     print "-----------------------------------------------------------"
